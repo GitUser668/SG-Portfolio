@@ -18,7 +18,9 @@ Currently, I'm learning Linux and Python — I'm not an expert yet, but I'm dete
 ## 📂 Featured Projects
 
 
-- **Performance Monitoring Script**: A Python script that generates PDF reports with system performance metrics (CPU, memory, disk, and users) and visual charts.  
+- **Performance Monitoring Script**: A Python script that generates PDF reports with system performance metrics (CPU, memory, disk, and users) and visual charts.
+- Link: [https://github.com/GitUser668/basic-system-report]
+- 
 - **Learning Linux**: Documented my learning journey, including common Linux commands, troubleshooting, and scripts.  
     (Working in Progress)
 
