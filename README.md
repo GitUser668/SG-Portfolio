@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 
-I'm SG! I'm an IT Specialist with some experience in System Administration and a growing passion for Linux. 🌟
+I'm SG! I'm an IT Specialist with experience in System Administration and a strong passion for technology. 🌟
 Currently, I'm learning Linux and Python — I'm not an expert yet, but I'm determined to keep improving and reach my goals, one step at a time. 🚀
 
 
