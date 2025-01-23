@@ -17,6 +17,9 @@ Currently, I'm learning Linux and Python — I'm not an expert yet, but I'm dete
 
 ## 📂 Featured Projects
 
+- **NetworkingLabs**: This repository contains a collection of basic Network configurations in Packet Tracer
+- Link: [https://github.com/GitUser668/NetworkingLabs]
+
 
 - **Performance Monitoring Script**: A Python script that generates PDF reports with system performance metrics (CPU, memory, disk, and users) and visual charts.
 - Link: [https://github.com/GitUser668/basic-system-report]
