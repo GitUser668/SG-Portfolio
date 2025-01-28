@@ -30,7 +30,6 @@ Currently, I'm learning Linux and Python — I'm not an expert yet, but I'm dete
 
 
 - **Virtual Box VMs Lab**: This repository serves as a space where I document and share my experiments, configurations, and projects using virtual machines in VirtualBox.
-    Here, you'll find examples of the VMs I've set up for testing, development, and learning.
 - Link: [https://github.com/GitUser668/VirtualMachines/blob/main/README.md] 
 
 
