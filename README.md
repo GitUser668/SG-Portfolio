@@ -19,13 +19,19 @@ Currently, I'm learning Linux and Python — I'm not an expert yet, but I'm dete
 
 - **NetworkingLabs**: This repository contains a collection of basic Network configurations in Packet Tracer
 - Link: [https://github.com/GitUser668/NetworkingLabs]
-
+  
 
 - **Performance Monitoring Script**: A Python script that generates PDF reports with system performance metrics (CPU, memory, disk, and users) and visual charts.
 - Link: [https://github.com/GitUser668/basic-system-report]
-- 
+
+  
 - **Learning Linux**: Documented my learning journey, including common Linux commands, troubleshooting, and scripts.  
     (Working in Progress)
+
+
+- **Virtual Box VMs Lab**: This repository serves as a space where I document and share my experiments, configurations, and projects using virtual machines in VirtualBox.
+    Here, you'll find examples of the VMs I've set up for testing, development, and learning.
+- Link: [https://github.com/GitUser668/VirtualMachines/blob/main/README.md] 
 
 
 
