@@ -33,6 +33,10 @@ Currently, I'm learning Linux and Python — I'm not an expert yet, but I'm dete
 - Link: [https://github.com/GitUser668/VirtualMachines/blob/main/README.md] 
 
 
+- **CyberSecurity**
+Encrypting and decrypting files using **AES Crypt**
+- Link: [https://github.com/GitUser668/aes-lab-cli]
+
 
 ## 📫 Contact
 
